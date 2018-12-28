@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 0,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+    "*.js": "javascriptreact"
+    },
+    "files.autoGuessEncoding": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+    }
